@@ -13,9 +13,9 @@
 ![vue_drag_tree_pageimg](http://owuarmdzk.bkt.clouddn.com/github_readme_img_1.png "Vue-drag-tree")
 
 # 参考
-最主要的就是这个`Angular-ui-tree`，虽然到后面发现angualr和vue的侧重点要点区别，但是还是有很大的参考价值，很多代码都是直接copy的。
+最主要的就是这个`Angular-ui-tree`，虽然到后面发现angualr和vue的侧重点有些区别，但是还是有很大的参考价值，很多代码都是直接copy的~
 
-[Angular-ui-tree](https://github.com/angular-ui-tree/angular-ui-tree "angular-ui-tree")
+* [Angular-ui-tree](https://github.com/angular-ui-tree/angular-ui-tree "angular-ui-tree")
 
 # MIT LICENSE
 Copyright (c) 2017 cdroid
