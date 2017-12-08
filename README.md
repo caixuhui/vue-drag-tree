@@ -7,6 +7,8 @@
 
 目前版本还只是雏形，后续会继续开发完善...
 
+[DEMO](http://www.caixuhui.com/demo-drag-tree/#/tree "DEMO")
+
 <small> 加个协议标题假装自己很正经... </small>
 
 # 截图
